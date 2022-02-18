@@ -3,7 +3,7 @@
 function Task(id, description, urgent, privat, deadline){
     this.id = id
     this.description = description
-    this.urgent = urgent
+    this.urgent = urgent 
     this.privat = privat
     this.deadline = deadline
 }

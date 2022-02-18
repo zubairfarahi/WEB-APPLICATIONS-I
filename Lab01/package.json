@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "sqlite3": "^5.0.2"
+  },
+  "name": "lab01",
+  "version": "1.0.0",
+  "main": "ex0.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
